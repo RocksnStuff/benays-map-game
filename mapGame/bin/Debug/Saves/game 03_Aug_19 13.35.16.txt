@@ -1,0 +1,48 @@
+Player 1 Wins!
+
+Turn 5
+Player 1 - Power: 6
+Player 2 - Power: 0
+
+Turn 4.5
+Player 1 - Power: 5
+Player 2 - Power: 0
+
+Turn 4
+Player 1 - Power: 5
+Player 2 - Power: 0
+
+Turn 3.5
+Player 1 - Power: 4
+Player 2 - Power: 0
+
+Turn 3
+Player 1 - Power: 4
+Player 2 - Power: 0
+
+Turn 2.5
+Player 1 - Power: 3
+Player 2 - Power: 0
+
+Turn 2
+Player 1 - Power: 3
+Player 2 - Power: 0
+
+Turn 1.5
+Player 1 - Power: 2
+Player 2 - Power: 0
+
+Turn 1
+Player 1 - Power: 2
+Player 2 - Power: 0
+
+Turn 0.5
+Player 1 - Power: 1
+Player 2 - Power: 0
+
+Turn 0
+Player 1 - Power: 1
+Player 2 - Power: 0
+
+Player 1 claims North America!
+
